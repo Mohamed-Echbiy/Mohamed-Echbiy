@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed</h1>
 <h3 align="center">A passionate Web Developer from Morocco</h3>
-<img src="https://avatars.githubusercontent.com/u/106173219?v=4" alt="github profile"/>
+<img src="https://geekflare.com/wp-content/uploads/2022/10/Coding.png" width="400" alt="github profile"/>
 
 - 🔭 I’m currently working on [YUMMY](https://github.com/Mohamed-Echbiy/yummy)
 
