@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Go**
 
-- 👨‍💻 All of my projects are available at [https://echbiy-mohamed.netlify.app/](https://echbiy-mohamed.netlify.app/)
-
 - 💬 Ask me about **React, NextJs**
 
 - 📫 How to reach me **echbiymed@gmail.com**
